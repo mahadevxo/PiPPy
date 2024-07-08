@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: torchpippy
-Version: 0.2.0+235eae8
+Version: 0.2.0+e097b79
 Summary: Pipeline Parallelism for PyTorch
 Home-page: https://github.com/pytorch/PiPPy
 Author: PiPPy Team

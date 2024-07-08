@@ -10,7 +10,7 @@ from typing import cast, Dict, List, Optional, Union
 import torch
 import torch.fx._pytree as fx_pytree
 import torch.utils._pytree as pytree
-from torch.export.ExportedProgram import (
+from torch.export.exported_program import (
     ConstantArgument,
     ModuleCallSignature,
     SymIntArgument,
